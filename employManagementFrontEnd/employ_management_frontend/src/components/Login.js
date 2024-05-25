@@ -34,7 +34,7 @@ const LoginForm = () => {
                                 name="email"
                                 onChange={(e) => setEmail(e.target.value)}
                                 value={email}
-                                placeholder="User name / Email"
+                                placeholder="Email"
                                 style={{ borderBottom: '2px solid #D1D1D4' }}
                             />
                         </div>
